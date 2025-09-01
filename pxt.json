@@ -1,0 +1,11 @@
+{
+  "name": "bits4bots-robotics",
+  "version": "0.1.0",
+  "description": "Bits4Bots Robotics Kit Extension: motors, servos, PIR, traffic lights, SSD1309 OLED",
+  "license": "MIT",
+  "dependencies": {},
+  "files": [
+    "main.ts",
+    "ssd1309.ts"
+  ]
+}
